@@ -6,7 +6,7 @@ Site: https://thall.es/
 Name: Goooool.net
 Game: https://goooool.net/
 Book: https://sobre.goooool.net/
-Version documented: V489
+Version documented: V490
 Language: pt-BR
 
 /* SOCIAL */

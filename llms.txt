@@ -7,7 +7,7 @@
 - Criador e desenvolvedor: Thalles Lázaro
 - Site do jogo: https://goooool.net/
 - Livro/documentação: https://sobre.goooool.net/
-- Versão documentada: V489
+- Versão documentada: V490
 - Estrutura do save: 178
 - Banco esportivo atual: revisão 816 / modelo 7
 - Idioma: pt-BR
@@ -15,30 +15,30 @@
 
 ## Comece por aqui
 - Capa do livro: https://sobre.goooool.net/
-- Índice completo: https://sobre.goooool.net/indice.html
-- O que é Goooool.net: https://sobre.goooool.net/o-que-e-goooool-net.html
-- Estado atual V489: https://sobre.goooool.net/estado-atual-v489.html
-- FAQ: https://sobre.goooool.net/faq.html
-- Glossário: https://sobre.goooool.net/glossario.html
-- Capturas reais: https://sobre.goooool.net/imagens.html
-- Vídeos oficiais: https://sobre.goooool.net/videos.html
-- Pesquisa: https://sobre.goooool.net/buscar.html
+- Índice completo: https://sobre.goooool.net/indice
+- O que é Goooool.net: https://sobre.goooool.net/o-que-e-goooool-net
+- Estado atual V490: https://sobre.goooool.net/estado-atual
+- FAQ: https://sobre.goooool.net/faq
+- Glossário: https://sobre.goooool.net/glossario
+- Capturas reais: https://sobre.goooool.net/imagens
+- Vídeos oficiais: https://sobre.goooool.net/videos
+- Pesquisa: https://sobre.goooool.net/buscar
 - Sitemap: https://sobre.goooool.net/sitemap.xml
 - Referência longa: https://sobre.goooool.net/llms-full.txt
 
 ## Áreas do livro
-- Primeiros passos: https://sobre.goooool.net/capitulo-primeiros-passos.html
-- Centro do Treinador: https://sobre.goooool.net/capitulo-centro-do-treinador.html
-- Elenco e vestiário: https://sobre.goooool.net/capitulo-elenco-e-vestiario.html
-- Tática e preparação: https://sobre.goooool.net/capitulo-tatica-e-preparacao.html
-- Partida ao Vivo: https://sobre.goooool.net/capitulo-partida-ao-vivo.html
-- Mercado e contratos: https://sobre.goooool.net/capitulo-mercado-e-contratos.html
-- Departamento de Futebol: https://sobre.goooool.net/capitulo-departamento-de-futebol.html
-- Clube e carreira: https://sobre.goooool.net/capitulo-clube-e-carreira.html
-- Competições: https://sobre.goooool.net/capitulo-competicoes.html
-- Categorias de base: https://sobre.goooool.net/capitulo-categorias-de-base.html
-- Comunidade e dados: https://sobre.goooool.net/capitulo-comunidade-e-dados.html
-- Ajustes, acessibilidade e sistema: https://sobre.goooool.net/capitulo-ajustes-acessibilidade-e-sistema.html
+- Primeiros passos: https://sobre.goooool.net/capitulo-primeiros-passos
+- Centro do Treinador: https://sobre.goooool.net/capitulo-centro-do-treinador
+- Elenco e vestiário: https://sobre.goooool.net/capitulo-elenco-e-vestiario
+- Tática e preparação: https://sobre.goooool.net/capitulo-tatica-e-preparacao
+- Partida ao Vivo: https://sobre.goooool.net/capitulo-partida-ao-vivo
+- Mercado e contratos: https://sobre.goooool.net/capitulo-mercado-e-contratos
+- Departamento de Futebol: https://sobre.goooool.net/capitulo-departamento-de-futebol
+- Clube e carreira: https://sobre.goooool.net/capitulo-clube-e-carreira
+- Competições: https://sobre.goooool.net/capitulo-competicoes
+- Categorias de base: https://sobre.goooool.net/capitulo-categorias-de-base
+- Comunidade e dados: https://sobre.goooool.net/capitulo-comunidade-e-dados
+- Ajustes, acessibilidade e sistema: https://sobre.goooool.net/capitulo-ajustes-acessibilidade-e-sistema
 
 ## Redes e vídeos oficiais
 - YouTube: https://www.youtube.com/@Goooool-net

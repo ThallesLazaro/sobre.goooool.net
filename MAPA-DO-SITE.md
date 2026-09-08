@@ -1,17 +1,17 @@
-# Mapa do site — Livro do Goooool.net V489
+# Mapa do site — Livro do Goooool.net
 
-Páginas indexáveis: 133
+Páginas públicas: 133
 
 - Capa: `/`
-- Índice: `/indice.html`
-- Busca: `/buscar.html`
-- FAQ: `/faq.html`
-- Glossário: `/glossario.html`
-- Capturas reais: `/imagens.html`
-- Vídeos oficiais: `/videos.html`
-- Estado atual: `/estado-atual-v489.html`
-- Capítulos: `/capitulos/.../`
-- Guia: `/guia/.../`
-- Cenários: `/cenarios/.../`
+- Índice: `/indice`
+- Busca: `/buscar`
+- FAQ: `/faq`
+- Glossário: `/glossario`
+- Capturas reais: `/imagens`
+- Vídeos oficiais: `/videos`
+- Estado atual: `/estado-atual`
+- Capítulos: arquivos `capitulo-*` na raiz
+- Guias: arquivos `guia-*` na raiz
+- Cenários: arquivos `cenario-*` na raiz
 
 Consulte `sitemap.xml` para a lista canônica completa.

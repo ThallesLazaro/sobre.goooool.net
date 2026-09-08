@@ -1,22 +1,23 @@
-# sobre.goooool.net — site-livro V489
+# Publicação de sobre.goooool.net no GitHub Pages
 
-Site estático multipágina preparado para **GitHub Pages** e para o domínio `https://sobre.goooool.net/`.
+O pacote foi preparado para ser enviado diretamente à raiz do repositório.
 
-A edição V489 será distribuída em formato **flat**: todas as páginas HTML, imagens, CSS, JavaScript e arquivos de SEO ficam no mesmo diretório raiz. Isso permite selecionar o conteúdo inteiro de uma vez no envio pelo GitHub sem atravessar dezenas de subpastas.
+## Estrutura
 
-- domínio canônico: `https://sobre.goooool.net/`
-- `CNAME`: `sobre.goooool.net`
-- versão documentada: V489
-- save: 178
-- banco oficial: revisão 816 / modelo 7
-- `llms.txt`: índice curto para IAs
-- `llms-full.txt`: referência detalhada e lista de URLs canônicas
-- vídeos oficiais: página `videos.html` com `VideoObject` em JSON-LD
-- redes oficiais: YouTube, Instagram e TikTok por `sameAs` e `rel=me`
-- páginas editoriais: `Article` + `BreadcrumbList`; índice com `CollectionPage`/`ItemList`; galeria com `ImageGallery`; FAQ com `FAQPage`
+- todos os arquivos ficam na mesma pasta;
+- as páginas públicas são arquivos sem extensão, como `videos`, `faq` e `guia-tecnico-automatico`;
+- `index.html` continua sendo a página inicial e `404.html` continua sendo a página de erro;
+- os endereços públicos ficam limpos, como `https://sobre.goooool.net/videos`, sem `.html` e sem barra final;
+- `CNAME` aponta para `sobre.goooool.net`;
+- `sitemap.xml`, `robots.txt`, `llms.txt` e `llms-full.txt` acompanham a publicação;
+- `.nojekyll` mantém os arquivos exatamente como estão no repositório, sem front matter ou processamento adicional.
 
-## Publicação
+## Como publicar
 
-Extraia o ZIP e envie **todos os arquivos da pasta extraída diretamente para a raiz do repositório** configurado no GitHub Pages. O pacote já contém `CNAME` e `.nojekyll`.
+1. Extraia o ZIP.
+2. Envie todos os arquivos para a raiz do repositório do GitHub Pages.
+3. Em **Settings → Pages**, publique a branch/pasta em que esses arquivos foram enviados.
+4. Mantenha o arquivo `CNAME` na raiz para o domínio personalizado.
+5. Depois da publicação, teste `/`, `/videos`, `/faq` e `/guia-tecnico-automatico`.
 
-Não envie a pasta que contém os arquivos: envie o conteúdo dela.
+Não é necessário adicionar `permalink` às páginas.
