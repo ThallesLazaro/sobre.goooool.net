@@ -1,4 +1,4 @@
-Auditoria SEO · sobre.goooool.net · V489
+Auditoria SEO · sobre.goooool.net · V490
 Páginas indexáveis: 133
 Estrutura: flat (todos os arquivos na raiz)
 Canonical: 1 por página indexável
