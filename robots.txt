@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://sobre.goooool.net/sitemap.xml
