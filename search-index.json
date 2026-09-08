@@ -1,0 +1,926 @@
+[
+  {
+    "title": "O que é Goooool.net",
+    "url": "/o-que-e-goooool-net.html",
+    "excerpt": "Um jogo de técnico de futebol para navegador em que você comanda clubes e seleções, monta o elenco, define a tática, negocia jogadores e constrói uma carreira…",
+    "chapter": "Prólogo",
+    "keywords": "jogo de técnico, manager de futebol, navegador"
+  },
+  {
+    "title": "Origem e proposta do Goooool.net",
+    "url": "/origem-e-proposta.html",
+    "excerpt": "Projeto independente com DNA de manager brasileiro, criado para ser simples de começar, profundo na carreira e pensado primeiro para o celular.",
+    "chapter": "Prólogo",
+    "keywords": "origem, projeto independente, Thalles Lázaro"
+  },
+  {
+    "title": "Goooool.net, Elifoot e Brasfoot: o que há em comum?",
+    "url": "/jogo-parecido-com-elifoot-e-brasfoot.html",
+    "excerpt": "Entenda por que o Goooool.net conversa com a tradição dos managers brasileiros como Elifoot e Brasfoot, sem ser continuação, clone ou projeto afiliado.",
+    "chapter": "Prólogo",
+    "keywords": "Elifoot, Brasfoot, jogo parecido, manager brasileiro"
+  },
+  {
+    "title": "Estado atual do Goooool.net — V489",
+    "url": "/estado-atual-v489.html",
+    "excerpt": "A versão V489 mantém a estrutura 178 do save e o banco esportivo revisão 816 / modelo 7, com carregamento resiliente e diagnóstico de erros mais preciso.",
+    "chapter": "Prólogo",
+    "keywords": "V489, save 178, banco 816"
+  },
+  {
+    "title": "Capítulo: Primeiros passos",
+    "url": "/capitulo-primeiros-passos.html",
+    "excerpt": "Comece uma carreira, escolha o tamanho do universo e entenda os controles básicos. Este capítulo reúne as páginas e recursos desta área na V489.",
+    "chapter": "Primeiros passos",
+    "keywords": "basics"
+  },
+  {
+    "title": "Como começar uma nova carreira",
+    "url": "/guia-como-comecar-uma-nova-carreira.html",
+    "excerpt": "A abertura atual oferece três caminhos: Ser técnico, Criar clube e Cenários de carreira.",
+    "chapter": "Primeiros passos",
+    "keywords": "nova carreira ser técnico criar clube cenários"
+  },
+  {
+    "title": "Cenários de carreira",
+    "url": "/guia-cenarios-de-carreira.html",
+    "excerpt": "O módulo atual possui 13 cenários opcionais. Eles acrescentam objetivo, prazo, regras e medalha à carreira sem criar outro motor de partidas.",
+    "chapter": "Primeiros passos",
+    "keywords": "cenários missões medalhas"
+  },
+  {
+    "title": "Cenário: Operação Acesso",
+    "url": "/cenario-operacao-acesso.html",
+    "excerpt": "Conquiste o acesso à divisão acima já na primeira temporada. Conheça regras, prazo, dificuldade e como Operação Acesso mede o progresso na carreira.",
+    "chapter": "Cenários de carreira",
+    "keywords": "Operação Acesso cenário carreira"
+  },
+  {
+    "title": "Cenário: Prata da Casa",
+    "url": "/cenario-prata-da-casa.html",
+    "excerpt": "Passe a temporada sem contratar e promova pelo menos 3 jogadores da base. Conheça regras, prazo, dificuldade e como Prata da Casa mede o progresso na carreira.",
+    "chapter": "Cenários de carreira",
+    "keywords": "Prata da Casa cenário carreira"
+  },
+  {
+    "title": "Cenário: Davi contra Golias",
+    "url": "/cenario-davi-contra-golias.html",
+    "excerpt": "Conquiste qualquer título oficial com um clube de força baixa da primeira divisão. Conheça regras, prazo, dificuldade e como Davi contra Golias mede o progresso na…",
+    "chapter": "Cenários de carreira",
+    "keywords": "Davi contra Golias cenário carreira"
+  },
+  {
+    "title": "Cenário: Glória Continental",
+    "url": "/cenario-gloria-continental.html",
+    "excerpt": "Conquiste a principal competição continental da CONMEBOL ou UEFA em até três temporadas. Conheça regras, prazo, dificuldade e como Glória Continental mede o…",
+    "chapter": "Cenários de carreira",
+    "keywords": "Glória Continental cenário carreira"
+  },
+  {
+    "title": "Cenário: Rei dos Clássicos",
+    "url": "/cenario-rei-dos-classicos.html",
+    "excerpt": "Vença pelo menos 3 clássicos na temporada sem abandonar o clube. Conheça regras, prazo, dificuldade e como Rei dos Clássicos mede o progresso na carreira.",
+    "chapter": "Cenários de carreira",
+    "keywords": "Rei dos Clássicos cenário carreira"
+  },
+  {
+    "title": "Cenário: Maratona Invicta",
+    "url": "/cenario-maratona-invicta.html",
+    "excerpt": "Complete uma sequência de pelo menos 10 partidas oficiais sem perder na primeira temporada. Conheça regras, prazo, dificuldade e como Maratona Invicta mede o…",
+    "chapter": "Cenários de carreira",
+    "keywords": "Maratona Invicta cenário carreira"
+  },
+  {
+    "title": "Cenário: Muralha",
+    "url": "/cenario-muralha.html",
+    "excerpt": "Alcance pelo menos 5 partidas oficiais consecutivas sem sofrer gols. Conheça regras, prazo, dificuldade e como Muralha mede o progresso na carreira.",
+    "chapter": "Cenários de carreira",
+    "keywords": "Muralha cenário carreira"
+  },
+  {
+    "title": "Cenário: Ataque Total",
+    "url": "/cenario-ataque-total.html",
+    "excerpt": "Marque pelo menos 60 gols oficiais com o clube na primeira temporada. Conheça regras, prazo, dificuldade e como Ataque Total mede o progresso na carreira.",
+    "chapter": "Cenários de carreira",
+    "keywords": "Ataque Total cenário carreira"
+  },
+  {
+    "title": "Cenário: Máquina de Vitórias",
+    "url": "/cenario-maquina-de-vitorias.html",
+    "excerpt": "Vença pelo menos 15 partidas oficiais na primeira temporada. Conheça regras, prazo, dificuldade e como Máquina de Vitórias mede o progresso na carreira.",
+    "chapter": "Cenários de carreira",
+    "keywords": "Máquina de Vitórias cenário carreira"
+  },
+  {
+    "title": "Cenário: Escada para a Elite",
+    "url": "/cenario-escada-para-a-elite.html",
+    "excerpt": "Conquiste dois acessos com o mesmo clube em até quatro temporadas. Conheça regras, prazo, dificuldade e como Escada para a Elite mede o progresso na carreira.",
+    "chapter": "Cenários de carreira",
+    "keywords": "Escada para a Elite cenário carreira"
+  },
+  {
+    "title": "Cenário: Colecionador de Taças",
+    "url": "/cenario-colecionador-de-tacas.html",
+    "excerpt": "Conquiste pelo menos 3 títulos oficiais com o mesmo clube em até três temporadas. Conheça regras, prazo, dificuldade e como Colecionador de Taças mede o progresso…",
+    "chapter": "Cenários de carreira",
+    "keywords": "Colecionador de Taças cenário carreira"
+  },
+  {
+    "title": "Cenário: Geração de Ouro",
+    "url": "/cenario-geracao-de-ouro.html",
+    "excerpt": "Promova pelo menos 8 jogadores da base ao elenco principal em até duas temporadas. Conheça regras, prazo, dificuldade e como Geração de Ouro mede o progresso na…",
+    "chapter": "Cenários de carreira",
+    "keywords": "Geração de Ouro cenário carreira"
+  },
+  {
+    "title": "Cenário: Saldo de Campeão",
+    "url": "/cenario-saldo-de-campeao.html",
+    "excerpt": "Termine a primeira temporada com saldo acumulado de pelo menos +30 gols nas partidas oficiais sob seu comando. Conheça regras, prazo, dificuldade e como Saldo de…",
+    "chapter": "Cenários de carreira",
+    "keywords": "Saldo de Campeão cenário carreira"
+  },
+  {
+    "title": "Mundo da carreira",
+    "url": "/guia-mundo-da-carreira.html",
+    "excerpt": "As predefinições Leve, Recomendado, Amplo e Personalizado definem quais países participam ativamente do universo da carreira.",
+    "chapter": "Primeiros passos",
+    "keywords": "mundo da carreira simulação completa simulação ativa leve países ativos"
+  },
+  {
+    "title": "Carreiras recentes, slots e arquivos de save",
+    "url": "/guia-carreiras-recentes-slots-e-arquivos-de-save.html",
+    "excerpt": "O navegador pode guardar vários saves locais. A página inicial mostra carreiras recentes e Ajustes permite abrir, criar, excluir, exportar e importar carreiras.",
+    "chapter": "Primeiros passos",
+    "keywords": "save backup slots importar exportar"
+  },
+  {
+    "title": "Perfis de assistência",
+    "url": "/guia-perfis-de-assistencia.html",
+    "excerpt": "Clássico, Básico, Avançado, Profissional e Personalizado organizam automações, quantidade de informação e ajuda contextual.",
+    "chapter": "Primeiros passos",
+    "keywords": "assistência clássico básico avançado profissional"
+  },
+  {
+    "title": "Dificuldade da carreira",
+    "url": "/guia-dificuldade-da-carreira.html",
+    "excerpt": "Tranquilo, Clássico, Desafiador e Realista alteram pressão, exigência, negociação e adaptação sem aumentar escondido os atributos dos adversários.",
+    "chapter": "Primeiros passos",
+    "keywords": "dificuldade tranquilo desafiador realista"
+  },
+  {
+    "title": "Navegação, barra inferior e busca global",
+    "url": "/guia-navegacao-barra-inferior-e-busca-global.html",
+    "excerpt": "A barra inferior mantém Jogar no centro e aceita quatro atalhos escolhidos pelo usuário. O menu superior preserva acesso ao restante e a busca global encontra…",
+    "chapter": "Primeiros passos",
+    "keywords": "navegação barra inferior busca"
+  },
+  {
+    "title": "Compatibilidade de carreiras e calendário",
+    "url": "/guia-compatibilidade-de-carreiras-e-calendario.html",
+    "excerpt": "A estrutura atual da carreira é 178. Diferenças recuperáveis no calendário são normalizadas antes de considerar uma carreira inválida.",
+    "chapter": "Primeiros passos",
+    "keywords": "estrutura 178 calendário compatibilidade"
+  },
+  {
+    "title": "Capítulo: Centro do Treinador",
+    "url": "/capitulo-centro-do-treinador.html",
+    "excerpt": "Organize a semana, prioridades, notícias e decisões antes do próximo compromisso. Este capítulo reúne as páginas e recursos desta área na V489.",
+    "chapter": "Centro do Treinador",
+    "keywords": "dashboard"
+  },
+  {
+    "title": "O ciclo de cada semana",
+    "url": "/guia-o-ciclo-de-cada-semana.html",
+    "excerpt": "O Início reúne próximo compromisso, prioridades, notícias e atalhos para os módulos que precisam de atenção antes de avançar.",
+    "chapter": "Centro do Treinador",
+    "keywords": ""
+  },
+  {
+    "title": "Centro do Treinador",
+    "url": "/guia-centro-do-treinador.html",
+    "excerpt": "O Centro do Treinador prioriza pendências e leva diretamente à área responsável, como escalação, contratos, mercado, seleção ou diretoria.",
+    "chapter": "Centro do Treinador",
+    "keywords": ""
+  },
+  {
+    "title": "Preparação semanal e próximo adversário",
+    "url": "/guia-preparacao-semanal-e-proximo-adversario.html",
+    "excerpt": "A preparação combina calendário, condição do elenco e informações do adversário para orientar o que merece ajuste antes da partida.",
+    "chapter": "Centro do Treinador",
+    "keywords": ""
+  },
+  {
+    "title": "Universo vivo",
+    "url": "/guia-universo-vivo.html",
+    "excerpt": "O restante do universo continua produzindo resultados, trocas de técnicos, transferências, campeões e acontecimentos conforme os países ativos da carreira.",
+    "chapter": "Centro do Treinador",
+    "keywords": ""
+  },
+  {
+    "title": "Técnico automático",
+    "url": "/guia-tecnico-automatico.html",
+    "excerpt": "O Técnico automático cuida do futebol: escalação, estratégia, partidas e semanas. O Modo autônomo é uma extensão opcional e só fica disponível quando ele está…",
+    "chapter": "Centro do Treinador",
+    "keywords": ""
+  },
+  {
+    "title": "Modo autônomo",
+    "url": "/guia-modo-autonomo.html",
+    "excerpt": "O Modo autônomo mantém a carreira avançando sem parar em jogos importantes, demissões ou propostas. Ele depende do Técnico automático e decide a continuidade…",
+    "chapter": "Centro do Treinador",
+    "keywords": ""
+  },
+  {
+    "title": "Central de Retorno",
+    "url": "/guia-central-de-retorno.html",
+    "excerpt": "Depois de uma ausência, o Início pode organizar o que aconteceu em uma linha do tempo. Se o Mundo em andamento avançou semanas, a Central mostra o que foi…",
+    "chapter": "Centro do Treinador",
+    "keywords": ""
+  },
+  {
+    "title": "Capítulo: Elenco e vestiário",
+    "url": "/capitulo-elenco-e-vestiario.html",
+    "excerpt": "Gerencie jogadores, condição, treino, relações, lesões e inscrições. Este capítulo reúne as páginas e recursos desta área na V489.",
+    "chapter": "Elenco e vestiário",
+    "keywords": "squad"
+  },
+  {
+    "title": "Elenco profissional",
+    "url": "/guia-elenco-profissional.html",
+    "excerpt": "A lista de jogadores combina posição, força, condição, moral, contrato e disponibilidade para ajudar a decidir titulares, reservas e prioridades de gestão.",
+    "chapter": "Elenco e vestiário",
+    "keywords": ""
+  },
+  {
+    "title": "Treinamento",
+    "url": "/guia-treinamento.html",
+    "excerpt": "O módulo de treino permite trabalhar desenvolvimento e recuperação com impacto sobre carga e condição do elenco.",
+    "chapter": "Elenco e vestiário",
+    "keywords": ""
+  },
+  {
+    "title": "Olheiros da base",
+    "url": "/guia-olheiros-da-base.html",
+    "excerpt": "As missões de observação da base procuram jovens e ocupam a capacidade disponível da estrutura de captação.",
+    "chapter": "Elenco e vestiário",
+    "keywords": ""
+  },
+  {
+    "title": "Vestiário e relações",
+    "url": "/guia-vestiario-e-relacoes.html",
+    "excerpt": "O Vestiário reúne moral, liderança, conversas, relações e acontecimentos humanos persistidos para os jogadores do contexto detalhado.",
+    "chapter": "Elenco e vestiário",
+    "keywords": ""
+  },
+  {
+    "title": "Conversas e promessas com jogadores",
+    "url": "/guia-conversas-e-promessas-com-jogadores.html",
+    "excerpt": "Jogadores podem trazer pedidos ligados a minutos, contrato, capitão, mercado ou permanência. Algumas respostas criam promessas com prazo e progresso mensurável.",
+    "chapter": "Elenco e vestiário",
+    "keywords": ""
+  },
+  {
+    "title": "Centro médico",
+    "url": "/guia-centro-medico.html",
+    "excerpt": "Lesões, recuperação, risco e indisponibilidades ficam concentrados no Centro médico para facilitar planejamento de escalação e retorno.",
+    "chapter": "Elenco e vestiário",
+    "keywords": ""
+  },
+  {
+    "title": "Inscrição de elenco e numeração",
+    "url": "/guia-inscricao-de-elenco-e-numeracao.html",
+    "excerpt": "A aba Inscrição organiza listas de jogadores registrados e regras relacionadas à competição quando o torneio exige controle de inscrição.",
+    "chapter": "Elenco e vestiário",
+    "keywords": ""
+  },
+  {
+    "title": "Perfil humano do jogador",
+    "url": "/guia-perfil-humano-do-jogador.html",
+    "excerpt": "O perfil detalhado pode mostrar agente, contrato, cláusulas, papel prometido, personalidade, vínculo, confiança e memórias relevantes conforme as opções de…",
+    "chapter": "Elenco e vestiário",
+    "keywords": ""
+  },
+  {
+    "title": "Capítulo: Tática e preparação",
+    "url": "/capitulo-tatica-e-preparacao.html",
+    "excerpt": "Monte a estratégia, a escalação, os papéis e a preparação para o adversário. Este capítulo reúne as páginas e recursos desta área na V489.",
+    "chapter": "Tática e preparação",
+    "keywords": "tactics"
+  },
+  {
+    "title": "Estratégia tática",
+    "url": "/guia-estrategia-tatica.html",
+    "excerpt": "Formação, mentalidade, ritmo, pressão, amplitude, construção e transições formam o plano coletivo usado pelo motor.",
+    "chapter": "Tática e preparação",
+    "keywords": ""
+  },
+  {
+    "title": "Planos A, B e C e planos prontos",
+    "url": "/guia-planos-a-b-e-c-e-planos-prontos.html",
+    "excerpt": "A estratégia permite aplicar planos guardados ou predefinidos. Quando um plano já corresponde ao estado atual, a opção aparece destacada com estado selecionado.",
+    "chapter": "Tática e preparação",
+    "keywords": ""
+  },
+  {
+    "title": "Estudo do adversário",
+    "url": "/guia-estudo-do-adversario.html",
+    "excerpt": "A aba do adversário reúne o próximo rival, tendências e sugestões que podem ser usadas como referência para preparar o jogo.",
+    "chapter": "Tática e preparação",
+    "keywords": ""
+  },
+  {
+    "title": "Escalação",
+    "url": "/guia-escalacao.html",
+    "excerpt": "A escalação define titulares e banco considerando posição, disponibilidade e o plano tático atual.",
+    "chapter": "Tática e preparação",
+    "keywords": ""
+  },
+  {
+    "title": "Papéis, capitão e bolas paradas",
+    "url": "/guia-papeis-capitao-e-bolas-paradas.html",
+    "excerpt": "A aba Papéis concentra capitão e responsabilidades específicas, incluindo cobradores quando aplicável.",
+    "chapter": "Tática e preparação",
+    "keywords": ""
+  },
+  {
+    "title": "Adversários adaptativos",
+    "url": "/guia-adversarios-adaptativos.html",
+    "excerpt": "Quando habilitada, a adaptação registra padrões repetidos do time do usuário e pode preparar respostas adversárias com limiar influenciado pela dificuldade da…",
+    "chapter": "Tática e preparação",
+    "keywords": ""
+  },
+  {
+    "title": "Mudanças táticas durante a partida",
+    "url": "/guia-mudancas-taticas-durante-a-partida.html",
+    "excerpt": "Em partidas controladas, ajustes e substituições podem ser feitos dentro da mesma interface do Ao Vivo; partidas apenas observadas mantêm os controles técnicos em…",
+    "chapter": "Tática e preparação",
+    "keywords": ""
+  },
+  {
+    "title": "Capítulo: Partida ao vivo",
+    "url": "/capitulo-partida-ao-vivo.html",
+    "excerpt": "Acompanhe partidas controladas ou observadas na mesma interface e entenda o pós-jogo. Este capítulo reúne as páginas e recursos desta área na V489.",
+    "chapter": "Partida ao vivo",
+    "keywords": "match"
+  },
+  {
+    "title": "Uma única interface de Ao Vivo",
+    "url": "/guia-uma-unica-interface-de-ao-vivo.html",
+    "excerpt": "Partidas controladas e partidas apenas observadas usam a mesma interface de Ao Vivo. O que muda é a disponibilidade dos controles técnicos, não a estrutura da tela.",
+    "chapter": "Partida ao vivo",
+    "keywords": ""
+  },
+  {
+    "title": "Abas do Ao Vivo",
+    "url": "/guia-abas-do-ao-vivo.html",
+    "excerpt": "O Ao Vivo usa abas para Narração, Estatísticas, Times, Jogos e, após o apito, Pós-jogo. Algumas abas podem ser ocultadas nas preferências.",
+    "chapter": "Partida ao vivo",
+    "keywords": ""
+  },
+  {
+    "title": "Campo animado ao vivo",
+    "url": "/guia-campo-animado-ao-vivo.html",
+    "excerpt": "O campo animado é opcional. Desligá-lo reduz trabalho gráfico sem remover placar, controles, narração ou informações essenciais da partida.",
+    "chapter": "Partida ao vivo",
+    "keywords": ""
+  },
+  {
+    "title": "Menu do placar",
+    "url": "/guia-menu-do-placar.html",
+    "excerpt": "Tocar no placar durante uma partida abre atalhos de jogo, como pausa, velocidade e acesso rápido a informações disponíveis.",
+    "chapter": "Partida ao vivo",
+    "keywords": ""
+  },
+  {
+    "title": "Árbitro, VAR e acréscimos",
+    "url": "/guia-arbitro-var-e-acrescimos.html",
+    "excerpt": "Detalhes de árbitro, VAR, acréscimos e explicações podem ser mostrados conforme as configurações, respeitando as regras da competição.",
+    "chapter": "Partida ao vivo",
+    "keywords": ""
+  },
+  {
+    "title": "Substituições",
+    "url": "/guia-substituicoes.html",
+    "excerpt": "A interface de trocas mostra quem sai, quem entra e o minuto. O banco automático procura manter um goleiro reserva quando possível.",
+    "chapter": "Partida ao vivo",
+    "keywords": ""
+  },
+  {
+    "title": "Prorrogação e pênaltis",
+    "url": "/guia-prorrogacao-e-penaltis.html",
+    "excerpt": "Quando o regulamento exige um vencedor, o jogo pode avançar para prorrogação e/ou disputa de pênaltis conforme o formato da competição.",
+    "chapter": "Partida ao vivo",
+    "keywords": ""
+  },
+  {
+    "title": "Pênaltis manuais",
+    "url": "/guia-penaltis-manuais.html",
+    "excerpt": "O minijogo manual de pênaltis é opcional. O toque indica a intenção da cobrança ou defesa, mas qualidade do jogador, fadiga e dificuldade continuam influenciando o…",
+    "chapter": "Partida ao vivo",
+    "keywords": ""
+  },
+  {
+    "title": "Momentos decisivos",
+    "url": "/guia-momentos-decisivos.html",
+    "excerpt": "Em partidas importantes podem surgir decisões de intervenção. Elas alteram risco, desgaste e probabilidades futuras sem garantir um gol ou uma vitória.",
+    "chapter": "Partida ao vivo",
+    "keywords": ""
+  },
+  {
+    "title": "Pós-jogo",
+    "url": "/guia-pos-jogo.html",
+    "excerpt": "Depois do apito, o mesmo fluxo mostra placar, gols, estatísticas, efeitos táticos, classificação e outros resultados relevantes sem separar partidas observadas em…",
+    "chapter": "Partida ao vivo",
+    "keywords": ""
+  },
+  {
+    "title": "Desempenho do Ao Vivo",
+    "url": "/guia-desempenho-do-ao-vivo.html",
+    "excerpt": "O jogo possui controles de apresentação e otimizações para manter o Ao Vivo fluido, especialmente em velocidades altas e com o campo animado desativado.",
+    "chapter": "Partida ao vivo",
+    "keywords": ""
+  },
+  {
+    "title": "Capítulo: Mercado e contratos",
+    "url": "/capitulo-mercado-e-contratos.html",
+    "excerpt": "Contrate, venda, empreste e renove considerando clube, jogador e contexto do mercado. Este capítulo reúne as páginas e recursos desta área na V489.",
+    "chapter": "Mercado e contratos",
+    "keywords": "market"
+  },
+  {
+    "title": "Buscar jogadores e lista curta",
+    "url": "/guia-buscar-jogadores-e-lista-curta.html",
+    "excerpt": "A aba Jogadores permite pesquisar o mercado, filtrar disponibilidade e consultar atletas observados antes de abrir uma negociação.",
+    "chapter": "Mercado e contratos",
+    "keywords": ""
+  },
+  {
+    "title": "Negociação de transferência",
+    "url": "/guia-negociacao-de-transferencia.html",
+    "excerpt": "O clube vendedor e o jogador avaliam a transferência em etapas diferentes. Uma recusa pode vir do clube, do atleta ou das condições oferecidas.",
+    "chapter": "Mercado e contratos",
+    "keywords": ""
+  },
+  {
+    "title": "Agentes, bônus e cláusulas",
+    "url": "/guia-agentes-bonus-e-clausulas.html",
+    "excerpt": "Quando os detalhes avançados estão ativos, agente, comissão, luvas, cláusula de saída, bônus, venda futura e papel prometido podem fazer parte da negociação.",
+    "chapter": "Mercado e contratos",
+    "keywords": ""
+  },
+  {
+    "title": "Propostas recebidas e saídas",
+    "url": "/guia-propostas-recebidas-e-saidas.html",
+    "excerpt": "Propostas recebidas ficam organizadas na aba Propostas para aceitar, recusar ou continuar decisões de venda e empréstimo.",
+    "chapter": "Mercado e contratos",
+    "keywords": ""
+  },
+  {
+    "title": "Agentes livres",
+    "url": "/guia-agentes-livres.html",
+    "excerpt": "Jogadores sem clube podem ser negociados diretamente, sujeitos à vontade do atleta, salário e contexto esportivo.",
+    "chapter": "Mercado e contratos",
+    "keywords": ""
+  },
+  {
+    "title": "Contratos e renovações",
+    "url": "/guia-contratos-e-renovacoes.html",
+    "excerpt": "A aba Contratos centraliza duração, salário, renovação, mercado e decisões de vínculo do elenco atual.",
+    "chapter": "Mercado e contratos",
+    "keywords": ""
+  },
+  {
+    "title": "Empréstimos",
+    "url": "/guia-emprestimos.html",
+    "excerpt": "Jogadores podem ser disponibilizados para empréstimo e propostas temporárias continuam sendo decididas pelo usuário.",
+    "chapter": "Mercado e contratos",
+    "keywords": ""
+  },
+  {
+    "title": "Mercado no Mundo da carreira",
+    "url": "/guia-mercado-no-mundo-da-carreira.html",
+    "excerpt": "Países em simulação ativa leve usam um fluxo rápido e compacto para manter transferências acontecendo fora do clube do usuário sem carregar gestão completa de cada…",
+    "chapter": "Mercado e contratos",
+    "keywords": ""
+  },
+  {
+    "title": "Capítulo: Departamento de Futebol",
+    "url": "/capitulo-departamento-de-futebol.html",
+    "excerpt": "Use observação, comissão técnica, dados, último dia da janela e bancos locais. Este capítulo reúne as páginas e recursos desta área na V489.",
+    "chapter": "Departamento de Futebol",
+    "keywords": "football-ops"
+  },
+  {
+    "title": "Departamento de Futebol",
+    "url": "/guia-departamento-de-futebol.html",
+    "excerpt": "O Departamento de Futebol reúne Observação de jogadores, Comissão técnica, Último dia da janela, Centro de dados e Bancos locais.",
+    "chapter": "Departamento de Futebol",
+    "keywords": ""
+  },
+  {
+    "title": "Observação profissional",
+    "url": "/guia-observacao-profissional.html",
+    "excerpt": "A rede de observação trabalha com missões, países, posições e precisão de relatório. Melhorar a rede aumenta capacidade e qualidade das informações.",
+    "chapter": "Departamento de Futebol",
+    "keywords": ""
+  },
+  {
+    "title": "Comissão técnica",
+    "url": "/guia-comissao-tecnica.html",
+    "excerpt": "Auxiliar, diretor esportivo, chefe de olheiros, analista, preparador físico e chefe médico possuem qualidade, potencial, especialidade e custo próprios.",
+    "chapter": "Departamento de Futebol",
+    "keywords": ""
+  },
+  {
+    "title": "Último dia da janela",
+    "url": "/guia-ultimo-dia-da-janela.html",
+    "excerpt": "A área organiza oportunidades e pressão do encerramento da janela sem obrigar o usuário a negociar apenas porque o prazo está terminando.",
+    "chapter": "Departamento de Futebol",
+    "keywords": ""
+  },
+  {
+    "title": "Centro de dados",
+    "url": "/guia-centro-de-dados.html",
+    "excerpt": "O Centro de dados reúne diagnósticos, comparações e informações de padrões para apoiar decisões de elenco e preparação.",
+    "chapter": "Departamento de Futebol",
+    "keywords": ""
+  },
+  {
+    "title": "Bancos locais",
+    "url": "/guia-bancos-locais.html",
+    "excerpt": "Pacotes de estrutura 5 podem ser instalados localmente, exportados, removidos e aplicados somente após confirmação. Instalar um pacote não altera automaticamente…",
+    "chapter": "Departamento de Futebol",
+    "keywords": ""
+  },
+  {
+    "title": "Capítulo: Clube e carreira",
+    "url": "/capitulo-clube-e-carreira.html",
+    "excerpt": "Acompanhe diretoria, identidade, estádio, finanças, perfil, história e legado. Este capítulo reúne as páginas e recursos desta área na V489.",
+    "chapter": "Clube e carreira",
+    "keywords": "club"
+  },
+  {
+    "title": "Diretoria, Torcida e Elenco",
+    "url": "/guia-diretoria-torcida-e-elenco.html",
+    "excerpt": "A área da Diretoria separa pressão e apoio de Diretoria, Torcida e Elenco, mostrando impactos recentes que podem afetar cada grupo de forma diferente.",
+    "chapter": "Clube e carreira",
+    "keywords": ""
+  },
+  {
+    "title": "Metas da temporada",
+    "url": "/guia-metas-da-temporada.html",
+    "excerpt": "Metas podem considerar liga, copas, finanças, base, vendas e exigência por títulos conforme o contexto do clube.",
+    "chapter": "Clube e carreira",
+    "keywords": ""
+  },
+  {
+    "title": "Identidade do clube",
+    "url": "/guia-identidade-do-clube.html",
+    "excerpt": "A aba Identidade apresenta informações e filosofia do clube sem substituir os dados editáveis do banco.",
+    "chapter": "Clube e carreira",
+    "keywords": ""
+  },
+  {
+    "title": "Editor do clube dentro da carreira",
+    "url": "/guia-editor-do-clube-dentro-da-carreira.html",
+    "excerpt": "O Editor permite alterar campos disponíveis do clube. Ao salvar sem mudar as cores, a paleta existente deve ser preservada exatamente.",
+    "chapter": "Clube e carreira",
+    "keywords": ""
+  },
+  {
+    "title": "Estádio, obras e ingresso",
+    "url": "/guia-estadio-obras-e-ingresso.html",
+    "excerpt": "O estádio permite acompanhar capacidade, obras e preço do ingresso. A procura cai quando o preço fica acima do recomendado e pode aumentar quando fica abaixo; a…",
+    "chapter": "Clube e carreira",
+    "keywords": ""
+  },
+  {
+    "title": "Finanças",
+    "url": "/guia-financas.html",
+    "excerpt": "Finanças reúne saldo, receitas, despesas, compromissos e movimentos relevantes do caixa do clube.",
+    "chapter": "Clube e carreira",
+    "keywords": ""
+  },
+  {
+    "title": "Meu perfil e reputação",
+    "url": "/guia-meu-perfil-e-reputacao.html",
+    "excerpt": "O perfil do técnico resume trajetória e reputação construída ao longo da carreira.",
+    "chapter": "Clube e carreira",
+    "keywords": ""
+  },
+  {
+    "title": "Mercado de técnicos e mudança de clube",
+    "url": "/guia-mercado-de-tecnicos-e-mudanca-de-clube.html",
+    "excerpt": "Técnicos podem ser demitidos, contratados e receber propostas. Períodos sem clube continuam a carreira e o mercado procura projetos compatíveis.",
+    "chapter": "Clube e carreira",
+    "keywords": ""
+  },
+  {
+    "title": "História e Passaporte do técnico",
+    "url": "/guia-historia-e-passaporte-do-tecnico.html",
+    "excerpt": "A História reúne temporadas, títulos, registros e o Passaporte do técnico, que acompanha passagens por clubes e seleções.",
+    "chapter": "Clube e carreira",
+    "keywords": ""
+  },
+  {
+    "title": "Histórias, objetivos pessoais e legado",
+    "url": "/guia-historias-objetivos-pessoais-e-legado.html",
+    "excerpt": "O jogo registra histórias a partir de fatos reais do save, acompanha objetivos pessoais e transforma a trajetória em um legado explicável, sem alterar resultados…",
+    "chapter": "Clube e carreira",
+    "keywords": ""
+  },
+  {
+    "title": "Integridade da carreira esportiva",
+    "url": "/guia-integridade-da-carreira-esportiva.html",
+    "excerpt": "Quando o sistema de integridade está habilitado, decisões ilegais existem apenas como ficção do jogo e podem gerar investigação, multa, perda de pontos e…",
+    "chapter": "Clube e carreira",
+    "keywords": ""
+  },
+  {
+    "title": "Capítulo: Competições",
+    "url": "/capitulo-competicoes.html",
+    "excerpt": "Consulte ligas, copas, seleções, mundo, coeficientes, técnicos, calendário e regulamentos. Este capítulo reúne as páginas e recursos desta área na V489.",
+    "chapter": "Competições",
+    "keywords": "competitions"
+  },
+  {
+    "title": "Ligas e classificação",
+    "url": "/guia-ligas-e-classificacao.html",
+    "excerpt": "A aba Ligas mostra a competição selecionada, classificação e contexto de acesso, rebaixamento e vagas conforme o regulamento.",
+    "chapter": "Competições",
+    "keywords": ""
+  },
+  {
+    "title": "Copas e mata-mata",
+    "url": "/guia-copas-e-mata-mata.html",
+    "excerpt": "Copas usam chaves e fases conforme o perfil da competição, incluindo confrontos de ida e volta quando previstos.",
+    "chapter": "Competições",
+    "keywords": ""
+  },
+  {
+    "title": "Seleções, Janelas FIFA e Copa do Mundo",
+    "url": "/guia-selecoes-janelas-fifa-e-copa-do-mundo.html",
+    "excerpt": "A área Seleções reúne convocação, partidas internacionais, Janelas FIFA, Eliminatórias e Copa do Mundo. Quando o técnico comanda uma seleção, clube e seleção…",
+    "chapter": "Competições",
+    "keywords": ""
+  },
+  {
+    "title": "Giro pelo Mundo",
+    "url": "/guia-giro-pelo-mundo.html",
+    "excerpt": "O Giro resume fatos que realmente aconteceram no universo ativo, como campeões, técnicos e transferências.",
+    "chapter": "Competições",
+    "keywords": ""
+  },
+  {
+    "title": "Coeficientes dos países",
+    "url": "/guia-coeficientes-dos-paises.html",
+    "excerpt": "Resultados continentais alimentam um ranking móvel que pode influenciar prestígio e projeções futuras de vagas, sem reescrever a temporada já em andamento.",
+    "chapter": "Competições",
+    "keywords": ""
+  },
+  {
+    "title": "Técnicos pelo mundo",
+    "url": "/guia-tecnicos-pelo-mundo.html",
+    "excerpt": "A aba Técnicos acompanha vagas, mudanças de comando e o mercado mundial de treinadores nos países ativos.",
+    "chapter": "Competições",
+    "keywords": ""
+  },
+  {
+    "title": "Calendário",
+    "url": "/guia-calendario.html",
+    "excerpt": "O calendário organiza rodadas e partidas do universo ativo e é uma das estruturas preservadas com prioridade durante migrações de save.",
+    "chapter": "Competições",
+    "keywords": ""
+  },
+  {
+    "title": "Regulamentos",
+    "url": "/guia-regulamentos.html",
+    "excerpt": "A Central de regulamentos mostra regras aplicáveis à competição selecionada. O regulamento exibido na própria competição tem prioridade sobre explicações gerais da…",
+    "chapter": "Competições",
+    "keywords": ""
+  },
+  {
+    "title": "Estatísticas, recordes e prêmios",
+    "url": "/guia-estatisticas-recordes-e-premios.html",
+    "excerpt": "A área Estatísticas reúne rankings, recordes e prêmios disponíveis para a competição e temporada selecionadas.",
+    "chapter": "Competições",
+    "keywords": ""
+  },
+  {
+    "title": "Capítulo: Categorias de base",
+    "url": "/capitulo-categorias-de-base.html",
+    "excerpt": "Acompanhe estrutura, gerações, desenvolvimento, filosofia e caminhos para o profissional. Este capítulo reúne as páginas e recursos desta área na V489.",
+    "chapter": "Categorias de base",
+    "keywords": "academy"
+  },
+  {
+    "title": "Categoria de base",
+    "url": "/guia-categoria-de-base.html",
+    "excerpt": "A base combina instalações, formação, recrutamento, gerações e caminhos de promoção ao profissional.",
+    "chapter": "Categorias de base",
+    "keywords": ""
+  },
+  {
+    "title": "Dia da Base e gerações",
+    "url": "/guia-dia-da-base-e-geracoes.html",
+    "excerpt": "Novas gerações são registradas por temporada e podem destacar jovens que depois aparecem na história do clube e no Passaporte quando se tornam relevantes.",
+    "chapter": "Categorias de base",
+    "keywords": ""
+  },
+  {
+    "title": "Desenvolvimento de jovens",
+    "url": "/guia-desenvolvimento-de-jovens.html",
+    "excerpt": "Potencial não é garantia de evolução. Minutos, treino, contexto e desenvolvimento do jogador influenciam a trajetória.",
+    "chapter": "Categorias de base",
+    "keywords": ""
+  },
+  {
+    "title": "Filosofia da academia",
+    "url": "/guia-filosofia-da-academia.html",
+    "excerpt": "A filosofia da base orienta prioridades de formação e recrutamento quando esse nível de profundidade está habilitado.",
+    "chapter": "Categorias de base",
+    "keywords": ""
+  },
+  {
+    "title": "Empréstimos e promoção de jovens",
+    "url": "/guia-emprestimos-e-promocao-de-jovens.html",
+    "excerpt": "Jovens podem ser promovidos ou disponibilizados para empréstimo conforme o momento do jogador e as opções de desenvolvimento do clube.",
+    "chapter": "Categorias de base",
+    "keywords": ""
+  },
+  {
+    "title": "Capítulo: Comunidade e dados",
+    "url": "/capitulo-comunidade-e-dados.html",
+    "excerpt": "Entenda banco oficial, pacotes locais, editor comunitário, suporte e estatísticas opcionais. Este capítulo reúne as páginas e recursos desta área na V489.",
+    "chapter": "Comunidade e dados",
+    "keywords": "community"
+  },
+  {
+    "title": "Editor comunitário",
+    "url": "/guia-editor-comunitario.html",
+    "excerpt": "O Editor comunitário existe fora da carreira para sugerir e manter clubes, jogadores, competições e outros dados do banco. As alterações passam por validação antes…",
+    "chapter": "Comunidade e dados",
+    "keywords": ""
+  },
+  {
+    "title": "Banco oficial e pacotes locais",
+    "url": "/guia-banco-oficial-e-pacotes-locais.html",
+    "excerpt": "O banco oficial é consultado antes de uma nova carreira. Pacotes locais são opcionais e só entram no save quando o usuário importa e confirma.",
+    "chapter": "Comunidade e dados",
+    "keywords": ""
+  },
+  {
+    "title": "Estatísticas públicas anônimas",
+    "url": "/guia-estatisticas-publicas-anonimas.html",
+    "excerpt": "O compartilhamento de estatísticas agregadas é opcional. Na página pública, clubes e seleções reconhecidos pelo banco oficial apontam para a Biblioteca e usam o…",
+    "chapter": "Comunidade e dados",
+    "keywords": ""
+  },
+  {
+    "title": "Suporte e feedback",
+    "url": "/guia-suporte-e-feedback.html",
+    "excerpt": "A página Suporte permite enviar dúvidas, sugestões e problemas. O contexto enviado é limitado ao necessário para atendimento e não substitui um backup do save.",
+    "chapter": "Comunidade e dados",
+    "keywords": ""
+  },
+  {
+    "title": "Capítulo: Ajustes, acessibilidade e sistema",
+    "url": "/capitulo-ajustes-acessibilidade-e-sistema.html",
+    "excerpt": "Personalize partidas, narração, carreira, aparência, acessibilidade, avisos, saves e sistema. Este capítulo reúne as páginas e recursos desta área na V489.",
+    "chapter": "Ajustes, acessibilidade e sistema",
+    "keywords": "settings"
+  },
+  {
+    "title": "Como os Ajustes estão organizados",
+    "url": "/guia-como-os-ajustes-estao-organizados.html",
+    "excerpt": "Ajustes é dividido em Partidas, Narração, Carreira, Tela e menus, Acessibilidade, Sons e avisos, Saves e dados, Sistema e Desenvolvedor.",
+    "chapter": "Ajustes, acessibilidade e sistema",
+    "keywords": ""
+  },
+  {
+    "title": "Tela, menus e barra inferior",
+    "url": "/guia-tela-menus-e-barra-inferior.html",
+    "excerpt": "Tema, navegação e apresentação da interface ficam em Tela e menus. A barra inferior pode ser personalizada sem remover o acesso às outras áreas.",
+    "chapter": "Ajustes, acessibilidade e sistema",
+    "keywords": ""
+  },
+  {
+    "title": "Acessibilidade e contraste dinâmico",
+    "url": "/guia-acessibilidade-e-contraste-dinamico.html",
+    "excerpt": "Tamanho, legibilidade, movimento reduzido, áreas de toque e contraste podem ser ajustados. Superfícies com cores de clubes ou seleções calculam o foreground…",
+    "chapter": "Ajustes, acessibilidade e sistema",
+    "keywords": ""
+  },
+  {
+    "title": "Preferências de partida",
+    "url": "/guia-preferencias-de-partida.html",
+    "excerpt": "A aba Partidas controla apresentação do Ao Vivo, campo animado, informações exibidas e opções relacionadas à experiência da partida.",
+    "chapter": "Ajustes, acessibilidade e sistema",
+    "keywords": ""
+  },
+  {
+    "title": "Narração de voz",
+    "url": "/guia-narracao-de-voz.html",
+    "excerpt": "A Narração permite ativar voz, escolher idioma/voz, volume, velocidade, tom, densidade, personalidade, intensidade, pronúncia e eventos narrados. O sistema usa uma…",
+    "chapter": "Ajustes, acessibilidade e sistema",
+    "keywords": ""
+  },
+  {
+    "title": "Sons, avisos e notificações locais",
+    "url": "/guia-sons-avisos-e-notificacoes-locais.html",
+    "excerpt": "Sons, vibração, prioridade, frequência, limite diário, horário silencioso e interesses de notificação podem ser configurados localmente.",
+    "chapter": "Ajustes, acessibilidade e sistema",
+    "keywords": ""
+  },
+  {
+    "title": "Mundo em andamento",
+    "url": "/guia-mundo-em-andamento.html",
+    "excerpt": "Quando ativado, o Mundo em andamento converte tempo de ausência em semanas no retorno e usa checkpoints. Finais, clássicos, decisões, ofertas e outros eventos…",
+    "chapter": "Ajustes, acessibilidade e sistema",
+    "keywords": ""
+  },
+  {
+    "title": "Verificação da carreira",
+    "url": "/guia-verificacao-da-carreira.html",
+    "excerpt": "A Verificação da carreira confere elenco, calendário, competições, inscrições e partidas salvas e oferece correções seguras para problemas recuperáveis.",
+    "chapter": "Ajustes, acessibilidade e sistema",
+    "keywords": ""
+  },
+  {
+    "title": "Sistema, instalação e uso sem conexão",
+    "url": "/guia-sistema-instalacao-e-uso-sem-conexao.html",
+    "excerpt": "O Goooool pode ser instalado como PWA e continuar disponível sem conexão depois que os arquivos necessários forem armazenados. Atualizações de arquivos estáticos…",
+    "chapter": "Ajustes, acessibilidade e sistema",
+    "keywords": ""
+  },
+  {
+    "title": "Diagnóstico local",
+    "url": "/guia-diagnostico-local.html",
+    "excerpt": "O diagnóstico local verifica HTTPS, armazenamento, mecanismo do aplicativo, instalação, notificações e capacidades do navegador. Relatórios técnicos opcionais…",
+    "chapter": "Ajustes, acessibilidade e sistema",
+    "keywords": ""
+  },
+  {
+    "title": "Modo Desenvolvedor",
+    "url": "/guia-modo-desenvolvedor.html",
+    "excerpt": "O Modo Desenvolvedor identifica o elemento tocado por toque longo ou menu de contexto. A interface pública de reporte mostra somente informações seguras; recursos…",
+    "chapter": "Ajustes, acessibilidade e sistema",
+    "keywords": "desenvolvedor reportar inspetor"
+  },
+  {
+    "title": "Por que o Goooool.net é diferente",
+    "url": "/por-que-o-goooool-e-diferente.html",
+    "excerpt": "Seis ideias que resumem a proposta: mobile de verdade, carreira com memória, IA sem vantagem secreta, universo regulável, automação reversível e banco comunitário.",
+    "chapter": "Epílogo",
+    "keywords": "diferenciais Goooool.net"
+  },
+  {
+    "title": "Mobile-first e PWA no Goooool.net",
+    "url": "/mobile-first-pwa.html",
+    "excerpt": "O celular é a referência de layout: o jogo abre no navegador, pode ser instalado como PWA e mantém recursos locais quando disponíveis no cache.",
+    "chapter": "Epílogo",
+    "keywords": "PWA, mobile-first, jogo no navegador"
+  },
+  {
+    "title": "Galeria de capturas reais do Goooool.net",
+    "url": "/imagens.html",
+    "excerpt": "Capturas reais da V487, em uma carreira com o Real Madrid, mostrando início, competições, técnico, elenco, tática, mercado, base, finanças, Ao Vivo, pós-jogo,…",
+    "chapter": "Epílogo",
+    "keywords": "screenshots, imagens Goooool.net"
+  },
+  {
+    "title": "Perguntas frequentes sobre o Goooool.net",
+    "url": "/faq.html",
+    "excerpt": "Respostas sobre carreira, saves, universo, partidas, seleções, mercado, PWA, banco comunitário e funcionamento geral do Goooool.net.",
+    "chapter": "Epílogo",
+    "keywords": "FAQ Goooool.net"
+  },
+  {
+    "title": "Glossário do Goooool.net",
+    "url": "/glossario.html",
+    "excerpt": "Termos e conceitos essenciais para entender carreira, mundo ativo, Ao Vivo, base, mercado, saves, PWA, observação e comunidade.",
+    "chapter": "Epílogo",
+    "keywords": "glossário Goooool.net"
+  },
+  {
+    "title": "Índice completo do livro Goooool.net",
+    "url": "/indice.html",
+    "excerpt": "Todas as páginas deste livro digital sobre o Goooool.net, organizadas para leitura sequencial e descoberta por assunto.",
+    "chapter": "Epílogo",
+    "keywords": "índice, sumário"
+  },
+  {
+    "title": "Buscar no livro do Goooool.net",
+    "url": "/buscar.html",
+    "excerpt": "Busca local em todas as páginas, capítulos, cenários e tópicos deste guia completo do Goooool.net.",
+    "chapter": "Utilidade",
+    "keywords": "busca Goooool.net"
+  },
+  {
+    "title": "Vídeos oficiais do Goooool.net",
+    "url": "/videos.html",
+    "excerpt": "Vídeo explicativo principal e Short oficial para ver o Goooool.net em ação.",
+    "chapter": "Mídia oficial",
+    "keywords": "vídeo Goooool.net, YouTube, gameplay, apresentação, jogo em ação"
+  }
+]
