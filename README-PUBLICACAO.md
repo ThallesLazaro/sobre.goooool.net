@@ -4,20 +4,17 @@ O pacote foi preparado para ser enviado diretamente à raiz do repositório.
 
 ## Estrutura
 
-- todos os arquivos ficam na mesma pasta;
-- as páginas públicas são arquivos sem extensão, como `videos`, `faq` e `guia-tecnico-automatico`;
-- `index.html` continua sendo a página inicial e `404.html` continua sendo a página de erro;
-- os endereços públicos ficam limpos, como `https://sobre.goooool.net/videos`, sem `.html` e sem barra final;
+- todos os arquivos-fonte ficam na mesma pasta;
+- as páginas permanecem como arquivos `.html` no repositório;
+- os links públicos, canonicals e referências do site usam URLs limpas, sem `.html`;
 - `CNAME` aponta para `sobre.goooool.net`;
-- `sitemap.xml`, `robots.txt`, `llms.txt` e `llms-full.txt` acompanham a publicação;
-- `.nojekyll` mantém os arquivos exatamente como estão no repositório, sem front matter ou processamento adicional.
+- `sitemap.xml`, `robots.txt`, `llms.txt` e `llms-full.txt` acompanham a publicação.
 
 ## Como publicar
 
 1. Extraia o ZIP.
-2. Envie todos os arquivos para a raiz do repositório do GitHub Pages.
-3. Em **Settings → Pages**, publique a branch/pasta em que esses arquivos foram enviados.
-4. Mantenha o arquivo `CNAME` na raiz para o domínio personalizado.
-5. Depois da publicação, teste `/`, `/videos`, `/faq` e `/guia-tecnico-automatico`.
+2. Selecione todos os arquivos extraídos.
+3. Envie-os para a raiz do repositório usado pelo GitHub Pages.
+4. Publique os arquivos exatamente como estão: os nomes físicos das páginas terminam em `.html`, enquanto os links usados pelo site permanecem sem a extensão.
 
-Não é necessário adicionar `permalink` às páginas.
+A versão técnica do aplicativo é registrada somente onde faz sentido, como na página Estado atual e nos metadados de software. O restante do livro prioriza a leitura sobre o jogo, sem transformar cada página em uma nota de release.

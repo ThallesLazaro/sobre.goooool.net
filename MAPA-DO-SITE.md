@@ -1,7 +1,5 @@
 # Mapa do site — Livro do Goooool.net
 
-Páginas públicas: 133
-
 - Capa: `/`
 - Índice: `/indice`
 - Busca: `/buscar`
@@ -9,9 +7,9 @@ Páginas públicas: 133
 - Glossário: `/glossario`
 - Capturas reais: `/imagens`
 - Vídeos oficiais: `/videos`
-- Estado atual: `/estado-atual`
-- Capítulos: arquivos `capitulo-*` na raiz
-- Guias: arquivos `guia-*` na raiz
-- Cenários: arquivos `cenario-*` na raiz
+- Estado do projeto: `/estado-atual-v490`
+- Capítulos: arquivos `capitulo-*.html`, com links públicos sem `.html`
+- Guias: arquivos `guia-*.html`, com links públicos sem `.html`
+- Cenários: arquivos `cenario-*.html`, com links públicos sem `.html`
 
 Consulte `sitemap.xml` para a lista canônica completa.
