@@ -1,0 +1,9 @@
+title: "Livro do Goooool.net"
+url: "https://sobre.goooool.net"
+baseurl: ""
+encoding: "utf-8"
+markdown: kramdown
+exclude:
+  - README-PUBLICACAO.md
+  - MAPA-DO-SITE.md
+  - AUDITORIA-SEO.txt
