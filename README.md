@@ -63,12 +63,6 @@
 Vídeo principal: [assistir no YouTube](https://www.youtube.com/watch?v=ARnjAYPvQs4)  
 Short oficial: [assistir no YouTube](https://www.youtube.com/shorts/CBqdmdU4TOI)
 
-## 🚀 Publicação no GitHub Pages
-
-Os arquivos-fonte ficam todos na raiz do repositório. As páginas continuam sendo arquivos `.html` — por exemplo `videos.html`, `faq.html` e `guia-tecnico-automatico.html` — enquanto os links públicos do site usam endereços limpos, como `/videos`, `/faq` e `/guia-tecnico-automatico`, sem `.html` e sem barra final.
-
-O domínio personalizado é definido por `CNAME` como `sobre.goooool.net`.
-
 ---
 
 Criado por [Thalles Lázaro](https://thall.es/). Goooool.net é um projeto independente.
